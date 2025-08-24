@@ -45,4 +45,4 @@ app.*.map.json
 /android/app/release
 
 ## code
-weather_app\lib\secrets.dart
+lib/secrets.dart
