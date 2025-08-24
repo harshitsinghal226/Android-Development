@@ -39,7 +39,7 @@ Here are the apps I built while learning Flutter:
 ## 🚀 How to Run the Apps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/harshitsinghal226/android-development.git
+   git clone https://github.com/your-username/android-development.git
    cd android-development
 2. Open the desired project folder (e.g., weather_app).
 3. Run the app using Flutter:
@@ -59,3 +59,4 @@ Here are the apps I built while learning Flutter:
 ## ✨ Author
 
 Made by Harshit Singhal
+
